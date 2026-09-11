@@ -1,6 +1,6 @@
 print("Hello, world!")
 
-intt =int(5)
+intt = int(5)
 floatt = float(3.14)
 string = str(intt)
 listt = [1,2,3,4,5,6]
