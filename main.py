@@ -1,18 +1,22 @@
 print("Hello, world!")
 
-age = 16
-height = 1.75
-name = "Vlad"
-is_student = True
-numbers = [1, 2, 3, 4, 5]
+intt =int(5)
+floatt = float(3.14)
+string = str(intt)
+listt = [1,2,3,4,5,6]
+tuplet = (1,2,3,4,5,6)
+dictt =  {1,2,3,4,5,6}
+sett = {1,2,3,4,5,6}
 
-print(age, type(age))
-print(height, type(height))
-print(name, type(name))
-print(is_student, type(is_student))
-print(numbers, type(numbers))
+print(intt, type(intt))
+print(floatt, type(floatt))
+print(string,type(string))
+print(listt,type(listt))
+print(tuplet,type(tuplet))
+print(dictt,type(dictt))
+print(sett,type(sett))
 
-a = 10
+a = 15
 b = 3
 
 print(a + b)
@@ -22,11 +26,4 @@ print(a / b)
 print(a // b)
 print(a % b)
 print(a ** b)
-
-print(a > b)
-print(a < b)
 print(a == b)
-print(a != b)
-
-numbers.append(6)
-print(numbers)
