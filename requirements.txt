@@ -1,0 +1,11 @@
+seaborn
+matplotlib
+requests
+numpy
+pandas
+colorama
+pyfiglet
+qrcode
+pillow
+emoji
+tabulate
